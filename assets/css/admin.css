@@ -1,0 +1,18 @@
+legend {
+    font-size: 15px;
+    font-weight: bold;
+}
+fieldset {
+    border: 2px solid #ddd;
+    padding: 10px;
+}
+.wpmf_toolbar{
+        float: left;
+    margin-left: 10px;
+}
+.ui-autocomplete {
+    max-height: 200px;
+    overflow-y: auto;    
+    overflow-x: hidden;    
+    padding-right: 20px;
+}
